@@ -9,6 +9,6 @@ import Foundation
 
 struct MenuItem {
     var name: String
-    var prince: String
+    var price: String
     var imageName: String
 }
